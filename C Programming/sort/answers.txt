@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Because it takes longer when running unsorted numbers. And the fastes runtime would be the sorted ones whuch would only run one time if the array is sorted.
+
+sort2 uses: Merge Sort
+
+How do you know?: It takes the least amount of time sorting random50000 compared to the rest and only mege sort is able to do that in BIG data.
+
+
+sort3 uses: Selection Sort
+
+How do you know?: Sorted, Reversed, and random provide almost the same amount of runtime. because selection sort wont garantee it is sorted until it checks all. and since sorted, reversed, and Random requiere only 1 and 2 steps. It will run same amount of steps.
