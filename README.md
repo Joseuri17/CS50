@@ -1,2 +1,3 @@
-# CS50
-My C programming from CS50
+My programming from 
+Harvard CS50
+A&M University - Commerce
